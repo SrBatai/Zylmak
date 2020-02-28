@@ -27,7 +27,7 @@ h4,
 h5,
 h6 {
 	margin: 0;
-	color: #0a183d;
+	color: #171717;
 	font-weight: 600;
 	line-height: 1;
 }
@@ -64,6 +64,10 @@ p {
 }
 
 img {
+	max-width: 100%;
+}
+
+img.imagen {
 	max-width: 100%;
 	position: relative;
 	right: -750px;
@@ -256,7 +260,7 @@ Header section
 }
 
 .header-right .user-panel .register {
-	color: #fc0254;
+	color: #ed1c24;
 	margin-right: 0;
 }
 
@@ -285,7 +289,7 @@ Header section
 }
 
 .main-menu li a:hover {
-	color: #fc0254;
+	color: #ed1c24;
 }
 
 .main-menu li:first-child a {
@@ -328,7 +332,7 @@ Header section
 }
 
 .main-menu .sub-menu li a:hover {
-	color: #fc0254;
+	color: #ed1c24;
 }
 
 .slicknav_menu {
@@ -454,7 +458,7 @@ Hero section
 }
 
 .hero-slider .owl-dots .owl-dot.active {
-	background: #fc0254;
+	background: #ed1c24;
 }
 
 /* ----------------
@@ -471,7 +475,7 @@ How section
  -------------------*/
 
 .how-section {
-	background-color: #0a183d;
+	background-color: #171717;
 }
 
 .how-item .hi-icon {
@@ -479,7 +483,7 @@ How section
 	width: 57px;
 	height: 57px;
 	border-radius: 50%;
-	background: #fc0254;
+	background: #ed1c24;
 	margin-bottom: 25px;
 }
 
@@ -535,7 +539,7 @@ Subscription section
  -----------------------*/
 
 .subscription-section {
-	background: #0a183d;
+	background: #171717;
 }
 
 .sub-text {
@@ -550,7 +554,7 @@ Subscription section
 }
 
 .sub-text h3 {
-	color: #fc0254;
+	color: #ed1c24;
 	margin-bottom: 30px;
 	font-weight: 500;
 }
@@ -564,7 +568,7 @@ Subscription section
 
 .sub-list {
 	list-style: none;
-	background: #1c294a;
+	background: #1f1f1f;
 	padding: 70px 15px 50px 155px;
 	border-radius: 42px;
 }
@@ -612,7 +616,7 @@ Responsive
  -------------------*/
 
 .footer-section {
-	background: #0a183d;
+	background: #171717;
 	padding: 100px 0 85px;
 }
 
@@ -688,7 +692,7 @@ Playlist page
 }
 
 .playlist-filter li.mixitup-control-active {
-	border-bottom: 2px solid #fc0254;
+	border-bottom: 2px solid #ed1c24;
 }
 
 .playlist-item {
@@ -730,7 +734,7 @@ Playlist page
 	border-radius: 80px;
 	color: #fff;
 	font-size: 15px;
-	background: #fc0254;
+	background: #ed1c24;
 }
 
 /* ----------------
@@ -748,7 +752,7 @@ Blog page
 .blog-item .blog-date {
 	font-size: 12px;
 	font-weight: 600;
-	color: #fc0254;
+	color: #ed1c24;
 	margin-bottom: 24px;
 }
 
@@ -877,7 +881,7 @@ Category page
 }
 
 .category-links a.active {
-	border-bottom: 2px solid #fc0254;
+	border-bottom: 2px solid #ed1c24;
 }
 
 .category-item {
@@ -922,7 +926,7 @@ Category page
 	height: 71px;
 	right: 29px;
 	bottom: 21px;
-	color: #fc0254;
+	color: #ed1c24;
 	font-size: 16px;
 	text-align: center;
 	border-radius: 50%;
@@ -1016,7 +1020,7 @@ Category page
 }
 
 .jp-play {
-	background: #fc0254;
+	background: #ed1c24;
 }
 
 .jp-play:after {
@@ -1153,7 +1157,7 @@ Artest Page
 	top: calc(50% - 35px);
 	border: none;
 	border-radius: 50%;
-	color: #fc0254;
+	color: #ed1c24;
 	background: #fff;
 }
 
@@ -1489,7 +1493,7 @@ Responsive
 	}
 	.slicknav_nav a:hover {
 		border-radius: 0;
-		color: #fc0254;
+		color: #ed1c24;
 		background: transparent;
 	}
 	.slicknav_btn {
@@ -1625,7 +1629,7 @@ Responsive
 	}
 	.slicknav_nav a:hover {
 		border-radius: 0;
-		color: #fc0254;
+		color: #ed1c24;
 		background: transparent;
 	}
 	.slicknav_btn {

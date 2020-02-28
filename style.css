@@ -139,7 +139,7 @@ Commom elements
 	padding: 23px 20px;
 	border-radius: 50px;
 	text-transform: uppercase;
-	background: #fc0254;
+	background: #ed1c24;
 	color: #fff;
 	line-height: normal;
 	cursor: pointer;
@@ -225,7 +225,7 @@ Header section
 .header-section {
 	padding-left: 55px;
 	padding-right: 72px;
-	background: #0a183d;
+	background: #ed1c24;
 }
 
 .site-logo {
@@ -352,7 +352,7 @@ Hero section
 	-webkit-box-align: center;
 	-ms-flex-align: center;
 	align-items: center;
-	background: #0a183d;
+	background: #171717;
 }
 
 .hs-item h2 {

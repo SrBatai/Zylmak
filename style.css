@@ -616,7 +616,7 @@ Responsive
  -------------------*/
 
 .footer-section {
-	background: #171717;
+	background: #FFFFFF;
 	padding: 100px 0 85px;
 }
 
@@ -626,7 +626,7 @@ Responsive
 
 .footer-widget h2 {
 	font-size: 16px;
-	color: #fff;
+	color: #171717;
 	text-transform: uppercase;
 	margin-bottom: 30px;
 }

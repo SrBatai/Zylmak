@@ -572,6 +572,7 @@ Subscription section
 	background: #1f1f1f;
 	padding: 70px 15px 50px 155px;
 	border-radius: 42px;
+	box-shadow: 6px 5px 14px 2px black;
 }
 
 .sub-list li {

@@ -68,6 +68,10 @@ img {
 	max-width: 100%;
 }
 
+img.slide {
+	max-width: 60%;
+}
+
 .zoom {
 	transition: transform .3s; /* Animation */
 	margin: 0 auto;

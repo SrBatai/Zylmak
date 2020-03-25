@@ -20,6 +20,11 @@ body {
 	font-synthesis: antialiased;
 }
 
+::selection {
+	color: #fff;
+    background-color: #ed1c24;
+}
+
 h1,
 h2,
 h3,
